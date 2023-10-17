@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+}
+
+p {
+    color: blue
+}
+
+img {
+    border: 15px solid #000;
+}
+
+.destacado {
+    color: rgb(4, 205, 78);
+}
+
+.grande {
+    font-size: 40px;
+}
+
+#principal {
+    color: yellow;
+}
+
+#sombra {
+    text-shadow: 3px 3px 0px #0a7316;
+}
+
+div p {
+    color: gray;
+}
+
+section {
+    text-align: center;
+}
